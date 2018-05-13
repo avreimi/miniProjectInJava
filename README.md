@@ -1,0 +1,2 @@
+# miniProjectInJava
+my project
